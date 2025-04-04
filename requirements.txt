@@ -1,0 +1,10 @@
+torch
+datasets
+jieba
+numpy
+ipykernel
+matplotlib
+sentencepiece
+evaluate
+seaborn
+tokenizers

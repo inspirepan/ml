@@ -1,0 +1,14 @@
+.stfolder/
+.venv/
+.vscode/
+.idea/
+.pytest_cache/
+__pycache__/
+checkpoint/
+checkpoint_star/
+data/
+models/
+.stignore
+matplotlibrc
+.DS_Store
+*sync-conflict*
